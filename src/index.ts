@@ -14,6 +14,8 @@ events.onAll(({ eventName, data }) => {
 
 // Все шаблоны
 
+const template = document.querySelector('.dod')
+
 
 // Модель данных приложения
 
